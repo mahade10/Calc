@@ -47,13 +47,13 @@ public class MainActivity extends AppCompatActivity {
                 ans.setText(ans.getText()+"8");
             }
         });
-        /*b9.setOnClickListener(new View.OnClickListener() {
+        b9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 ans.setText(ans.getText()+"9");
             }
         });
-        div.setOnClickListener(new View.OnClickListener() {
+       /* div.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 var1=Double.parseDouble(ans.getText()+"");
