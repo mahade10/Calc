@@ -41,13 +41,13 @@ public class MainActivity extends AppCompatActivity {
                 ans.setText(ans.getText()+"7");
             }
         });
-        /*b8.setOnClickListener(new View.OnClickListener() {
+        b8.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 ans.setText(ans.getText()+"8");
             }
         });
-        b9.setOnClickListener(new View.OnClickListener() {
+        /*b9.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 ans.setText(ans.getText()+"9");
